@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "purpleprotocol",
+  "repo": "mimalloc_rust",
+  "versions": [
+    {
+      "commit": "a5a76fd2c5a3a7c7b24d4765d53c71e41b32df74",
+      "parsed_at": "2026-11-22T06:11:29.527752+00:00",
+      "tag": "v0.1.48",
+      "filetree": "filetree/a5a76fd2c5a3a7c7b24d4765d53c71e41b32df74.nq.gz",
+      "blobs": [
+        "blob/05e116694e260d68ecf09049ab57243df9ec3001.nq.gz",
+        "blob/2f88dbac54e76e79bf1619d109f0efbf9a4268e9.nq.gz",
+        "blob/ecc9f3ade5049a94f7dadca84040317291bfc366.nq.gz",
+        "blob/cb3fa2e19c26afbd78f901e583ec985eaa6088c1.nq.gz",
+        "blob/383f0dcb3c431136c725d254d022be2eb10ca796.nq.gz",
+        "blob/e059bfdeef79f384f46d62ee5cda5ecd97d7f7b1.nq.gz",
+        "blob/4288b2f5109c6ce0f871bc3a7569def418b81608.nq.gz",
+        "blob/67eeb4c1968e397c062e4b9380a74574aa995e1d.nq.gz",
+        "blob/01d2c742bbd96ac90d156bc01579aeaf80fc47fe.nq.gz",
+        "blob/5148cec1e41daff63ec5d987e36d415bf90bd7bb.nq.gz",
+        "blob/11588aeb17150b67dfc1b0608a22752e14f1acca.nq.gz",
+        "blob/de9e80e3078a7be994954b8edd0c1e222f74adbc.nq.gz",
+        "blob/be9614c9006cc846a8881275a0cc94f16b73e87a.nq.gz",
+        "blob/9a3377d9ceafb733860ab47bd5ddd412dd5c11a8.nq.gz",
+        "blob/4de01ea7cb2a0ff38dd88b61cd19806b3b1ea0a3.nq.gz",
+        "blob/4ab43736a839dad0625345ac8ae37355254e3078.nq.gz",
+        "blob/385a34d8d240c3b43712bdf189c4f08f7225056c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
