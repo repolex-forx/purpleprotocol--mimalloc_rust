@@ -29,6 +29,42 @@
       ],
       "ast": [
         "aggregate/ast/a5a76fd2c5a3a7c7b24d4765d53c71e41b32df74/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a5a76fd2c5a3a7c7b24d4765d53c71e41b32df74.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "libmimalloc-sys",
+          "ecosystem": "CARGO",
+          "version": "0.1.44",
+          "githubOrg": "purpleprotocol",
+          "githubRepo": "mimalloc_rust",
+          "githubCommit": "bbf61305ad2d9d1c4b417bd277e36caec31d21b7",
+          "githubTag": "v0.1.44",
+          "githubUrl": "https://github.com/purpleprotocol/mimalloc_rust/tree/master/libmimalloc-sys",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "ctest2",
+          "ecosystem": "CARGO",
+          "version": "0.4.10",
+          "githubOrg": "JohnTitor",
+          "githubRepo": "ctest2",
+          "githubCommit": "3b51e8e288b5d72d64e459c48262cbda94ea0cd9",
+          "githubTag": "v0.4.10",
+          "githubUrl": "https://github.com/JohnTitor/ctest2",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctest2-0.4.10/src/lib.rs"
+        },
+        {
+          "packageName": "cc",
+          "ecosystem": "CARGO",
+          "version": "1.11.3",
+          "githubOrg": "rust-lang",
+          "githubRepo": "cc-rs",
+          "githubUrl": "https://github.com/rust-lang/cc-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cc-1.11.3/src/lib.rs"
+        }
       ]
     }
   ],
